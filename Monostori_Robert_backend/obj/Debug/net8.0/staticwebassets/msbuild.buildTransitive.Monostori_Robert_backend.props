@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Monostori_Robert_backend.props" />
+</Project>

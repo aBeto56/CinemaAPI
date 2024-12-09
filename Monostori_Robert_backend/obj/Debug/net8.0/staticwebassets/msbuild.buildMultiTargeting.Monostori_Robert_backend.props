@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Monostori_Robert_backend.props" />
+</Project>
